@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://antoineandrieu.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Antoine Andrieu',
+  subtitle: 'I\'m a software engineer that love building efficient architecture and writing beautiful code that solves complex problems.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Antoine Andrieu',
+    photo: '/portrait.jpeg',
+    bio: 'I\'m a software engineer that love building efficient architecture and writing beautiful code that solves complex problems.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'antoine@andrieu.me',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'antoineandrieu',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'antoine-andrieu-997251193/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

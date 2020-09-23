@@ -1,13 +1,11 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/portrait-nature.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm Antoine Andrieu. I'm a software engineer that love building efficient architecture and writing beautiful code that solves complex problems. I care deeply about creating world-class, useful, and user-friendly products that help people and make a difference.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I have been studying web development for ten years and I develop mainly in both Python and Javascript. I build complete applications with REST or GraphQL API linked to PostgreSQL or MongoDB database and ReactJS based frontend. I am also proficient in System Administration and DevOps, including but not limited to writing shell scripts, tweaking, securing and maintaining GNU/Linux servers. I also have a strong emphasis on building continuous integration environment with Gitlab CI/CD and AWS cloud services.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Working in several start-ups in the last ten years, I have an entrepreneurship mindset. I'am also a husband and dad that love doing outdoor activities with my family.
